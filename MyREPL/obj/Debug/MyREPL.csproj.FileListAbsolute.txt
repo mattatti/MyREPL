@@ -1,0 +1,14 @@
+c:\users\matan\documents\visual studio 2015\Projects\MyREPL\MyREPL\bin\Debug\MyREPL.exe.config
+c:\users\matan\documents\visual studio 2015\Projects\MyREPL\MyREPL\bin\Debug\MyREPL.exe
+c:\users\matan\documents\visual studio 2015\Projects\MyREPL\MyREPL\bin\Debug\MyREPL.pdb
+c:\users\matan\documents\visual studio 2015\Projects\MyREPL\MyREPL\obj\Debug\MyREPL.csprojResolveAssemblyReference.cache
+c:\users\matan\documents\visual studio 2015\Projects\MyREPL\MyREPL\obj\Debug\MainWindow.g.cs
+c:\users\matan\documents\visual studio 2015\Projects\MyREPL\MyREPL\obj\Debug\App.g.cs
+c:\users\matan\documents\visual studio 2015\Projects\MyREPL\MyREPL\obj\Debug\MyREPL_MarkupCompile.cache
+c:\users\matan\documents\visual studio 2015\Projects\MyREPL\MyREPL\obj\Debug\MyREPL_MarkupCompile.lref
+c:\users\matan\documents\visual studio 2015\Projects\MyREPL\MyREPL\obj\Debug\MainWindow.baml
+c:\users\matan\documents\visual studio 2015\Projects\MyREPL\MyREPL\obj\Debug\MyREPL.g.resources
+c:\users\matan\documents\visual studio 2015\Projects\MyREPL\MyREPL\obj\Debug\MyREPL.Properties.Resources.resources
+c:\users\matan\documents\visual studio 2015\Projects\MyREPL\MyREPL\obj\Debug\MyREPL.csproj.GenerateResource.Cache
+c:\users\matan\documents\visual studio 2015\Projects\MyREPL\MyREPL\obj\Debug\MyREPL.exe
+c:\users\matan\documents\visual studio 2015\Projects\MyREPL\MyREPL\obj\Debug\MyREPL.pdb
